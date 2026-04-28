@@ -1,4 +1,4 @@
-#  ABank Customer Analysis Dashboard
+#  Bank Customer Analysis Dashboard
 
 ### Project Overview
 This project analyzes banking data to identify customer trends and key performance indicators.
